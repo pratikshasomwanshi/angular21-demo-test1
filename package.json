@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "build": "ng build",
-    "start": "npx serve -s dist/angular21-demo-test -l 3000",
+    "start": "npx serve -s dist/angular21-demo-test/browser -l 3000",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
