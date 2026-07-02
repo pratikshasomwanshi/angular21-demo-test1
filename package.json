@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
     "build": "ng build",
-    "start:dist": "npx serve -s dist/angular21-demo-test -l 3000",
+    "start": "npx serve -s dist/angular21-demo-test -l 3000",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
